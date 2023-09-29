@@ -8,90 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f34330ad5a38950",
+            "id": "f56a1d681dad1845",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Zasady Gry",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":92},\"to\":{\"line\":46,\"ch\":92}}}"
-                },
-                {
-                  "title": "Gobliny",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Gobliny.pdf\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Irdowie",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Irdowie.pdf\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Gobliny",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Gobliny.pdf\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Felpurrowie",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Felpurrowie.pdf\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Delocjanie",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Mechanika/Rasy/Delocjanie.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Zasady Gry",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Wydarzenia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wydarzenia/Wydarzenia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Zasady Gry",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":13},\"to\":{\"line\":44,\"ch\":13}},\"scroll\":19.5}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Karty postaci/Templatka.pdf"
-              }
-            }
-          },
-          {
-            "id": "f56a1d681dad1845",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Zielone Smoki",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Zielone Smoki.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -209,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karty postaci/Templatka.pdf",
+                "file": "z_Mechanika/Zasady Gry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karty postaci/Templatka.pdf",
+                "file": "z_Mechanika/Zasady Gry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Karty postaci/Templatka.pdf"
+                "file": "z_Mechanika/Zasady Gry.md"
               }
             }
           },
@@ -346,7 +267,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Karty postaci/Templatka.pdf"
+                "file": "z_Mechanika/Zasady Gry.md"
               }
             }
           },
@@ -409,12 +330,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "6f34330ad5a38950",
+  "active": "f56a1d681dad1845",
   "lastOpenFiles": [
+    "Karty postaci/Templatka.pdf",
     "z_Mechanika/Zasady Gry.md",
     "Bestiariusz/Zielone Smoki.md",
     "z_PDFy/Populacja_Ras_R4.pdf",
-    "Karty postaci/Templatka.pdf",
     "z_Mechanika/Rasy/Gobliny.pdf",
     "Gildie/Czarno czerwoni",
     "z_Mechanika/Rasy/Irdowie.pdf",
