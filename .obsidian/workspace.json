@@ -107,8 +107,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md",
+                "file": "Karty postaci/Templatka.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md",
+                "file": "Karty postaci/Templatka.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md"
+                "file": "Karty postaci/Templatka.pdf"
               }
             }
           },
@@ -347,7 +346,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md"
+                "file": "Karty postaci/Templatka.pdf"
               }
             }
           },
@@ -410,10 +409,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "f56a1d681dad1845",
+  "active": "6f34330ad5a38950",
   "lastOpenFiles": [
-    "Bestiariusz/Zielone Smoki.md",
     "z_Mechanika/Zasady Gry.md",
+    "Bestiariusz/Zielone Smoki.md",
     "z_PDFy/Populacja_Ras_R4.pdf",
     "Karty postaci/Templatka.pdf",
     "z_Mechanika/Rasy/Gobliny.pdf",
