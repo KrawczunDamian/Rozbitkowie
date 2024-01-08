@@ -16,15 +16,62 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Templatka",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Karty postaci/Templatka.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bronie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zbroje",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Zbroje.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Przedmioty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nasze",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Nasze/Nasze.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bronie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gildie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Gildie.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Postaci",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Postaci.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "z_Mechanika/Zasady Gry.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -130,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +241,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "z_Mechanika/Zasady Gry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -266,9 +309,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "z_Mechanika/Zasady Gry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -333,6 +374,12 @@
   "active": "f56a1d681dad1845",
   "lastOpenFiles": [
     "Karty postaci/Templatka.pdf",
+    "Ekwipunek/Bronie/Bronie.md",
+    "Ekwipunek/Zbroje/Zbroje.md",
+    "Ekwipunek/Przedmioty/Przedmioty.md",
+    "Ekwipunek/Bronie/Nasze/Nasze.md",
+    "Gildie/Gildie.md",
+    "Postaci/Postaci.md",
     "z_Mechanika/Zasady Gry.md",
     "Bestiariusz/Zielone Smoki.md",
     "z_PDFy/Populacja_Ras_R4.pdf",
@@ -353,22 +400,16 @@
     "Księga czarów/Cierń.md",
     "Księga czarów/Sailento.md",
     "Księga czarów/Verum.md",
-    "Ekwipunek/Bronie/Nasze/Nasze.md",
     "Ekwipunek/Bronie/Nasze/Głowa Lewiatana.md",
     "SESJA 0.md",
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Bestiariusz/Bestiariusz.md",
     "Lokacje/Brolaser/Brolaser.md",
     "Lokacje/Lokacje.md",
-    "Gildie/Gildie.md",
     "Ekwipunek/Przedmioty/Nasze/Nasze.md",
-    "Ekwipunek/Przedmioty/Przedmioty.md",
-    "Ekwipunek/Bronie/Bronie.md",
     "Bestiariusz/Pełzacze.md",
     "Gildie/Czarno Czerwoni.md",
     "Gildie/Nowe Horyzonty (Gildia Czasu).md",
-    "Postaci/Tartaros/Dziedziczka Jedynego.md",
-    "Postaci/Testowy/Testowy.md",
     "z_Foty/Zielone smoki fota.jpg",
     "z_Foty/Yenthaliana Dal Thaarey fota.jpg",
     "z_Foty/Wgór fota.jpg",
