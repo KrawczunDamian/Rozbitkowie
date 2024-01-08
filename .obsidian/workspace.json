@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d59c6ae7e3175a",
+        "id": "58ccc31b9510716a",
         "type": "tabs",
         "children": [
           {
-            "id": "f56a1d681dad1845",
+            "id": "8a800635c5e45203",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,60 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Templatka",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Karty postaci/Templatka.pdf\"}}",
-                  "eState": "{}"
+                  "title": "Lokacje",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
                 {
-                  "title": "Bronie",
+                  "title": "Wydarzenia",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Zbroje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Zbroje.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Przedmioty",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Nasze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Nasze/Nasze.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Bronie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Gildie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Gildie.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Postaci",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Postaci.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wydarzenia/Wydarzenia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "diff-view",
+              "type": "image",
               "state": {
-                "file": "z_Mechanika/Zasady Gry.md",
-                "staged": false
+                "file": "Lokacje/Wyspa.png"
               }
             }
           }
@@ -177,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lokacje/Wyspa.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lokacje/Wyspa.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +206,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lokacje/Wyspa.png"
+              }
             }
           },
           {
@@ -309,7 +276,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Lokacje/Wyspa.png"
+              }
             }
           },
           {
@@ -371,8 +340,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "f56a1d681dad1845",
+  "active": "8a800635c5e45203",
   "lastOpenFiles": [
+    "Lokacje/Lokacje.md",
+    "Lokacje/Wyspa.png",
+    "Lokacje/Wyspa.png.crdownload",
+    "Wydarzenia/Wydarzenia.md",
     "Karty postaci/Templatka.pdf",
     "Ekwipunek/Bronie/Bronie.md",
     "Ekwipunek/Zbroje/Zbroje.md",
@@ -392,8 +365,6 @@
     "Karty postaci/Ergandella karta.pdf",
     "z_Mechanika/Rasy/Delocjanie.pdf",
     "z_Mechanika/Rasy/368d5efc-d887-4870-a344-a7ac73dcc560.png",
-    "z_Mechanika/Rasy/Aoqi.pdf",
-    "Wydarzenia/Wydarzenia.md",
     "z_Mechanika/Statystyki wykresy itp.md",
     "Księga czarów/Ave Sempra.md",
     "Księga czarów/Ból.md",
@@ -405,7 +376,6 @@
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Bestiariusz/Bestiariusz.md",
     "Lokacje/Brolaser/Brolaser.md",
-    "Lokacje/Lokacje.md",
     "Ekwipunek/Przedmioty/Nasze/Nasze.md",
     "Bestiariusz/Pełzacze.md",
     "Gildie/Czarno Czerwoni.md",
@@ -417,7 +387,6 @@
     "z_Foty/Sir Zolen Proch fota.jpg",
     "z_Foty/Sir Latrel Z Tarnicy Wschodniej fota.jpg",
     "z_Foty/Sidarion fota.jpg",
-    "z_Foty/Qutardus Hal Novemerta fota.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
