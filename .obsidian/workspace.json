@@ -20,6 +20,78 @@
                 {
                   "title": "Lokacje",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gildie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Gildie.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Diff View (Przedmioty)",
+                  "icon": "git-pull-request",
+                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"staged\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bronie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nasze",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Przedmioty",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nasze",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zbroje",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Zbroje.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "SESJA 0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SESJA 0.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.8333333333333335}"
+                },
+                {
+                  "title": "Diff View (appearance.json)",
+                  "icon": "git-pull-request",
+                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/appearance.json\",\"staged\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lokacje",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "title": "Diff View (app.json)",
+                  "icon": "git-pull-request",
+                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/app.json\",\"staged\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lokacje",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
                 },
@@ -32,9 +104,10 @@
               ]
             },
             "state": {
-              "type": "image",
+              "type": "diff-view",
               "state": {
-                "file": "Lokacje/Wyspa.png"
+                "file": "z_Music/SMALLThe-Perfect-Storm-at-Sea-Old-Sai.mp3",
+                "staged": true
               }
             }
           }
@@ -140,7 +213,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lokacje/Wyspa.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +238,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lokacje/Wyspa.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +277,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lokacje/Wyspa.png"
-              }
+              "state": {}
             }
           },
           {
@@ -276,9 +345,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Lokacje/Wyspa.png"
-              }
+              "state": {}
             }
           },
           {
@@ -313,7 +380,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -340,18 +409,20 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8a800635c5e45203",
+  "active": "0da0391df5aff0e5",
   "lastOpenFiles": [
     "Lokacje/Lokacje.md",
+    "Gildie/Gildie.md",
+    "Ekwipunek/Bronie/Bronie.md",
+    "Ekwipunek/Bronie/Nasze/Nasze.md",
+    "Ekwipunek/Przedmioty/Przedmioty.md",
+    "Ekwipunek/Zbroje/Nasze/Nasze.md",
+    "Ekwipunek/Zbroje/Zbroje.md",
+    "SESJA 0.md",
     "Lokacje/Wyspa.png",
     "Lokacje/Wyspa.png.crdownload",
     "Wydarzenia/Wydarzenia.md",
     "Karty postaci/Templatka.pdf",
-    "Ekwipunek/Bronie/Bronie.md",
-    "Ekwipunek/Zbroje/Zbroje.md",
-    "Ekwipunek/Przedmioty/Przedmioty.md",
-    "Ekwipunek/Bronie/Nasze/Nasze.md",
-    "Gildie/Gildie.md",
     "Postaci/Postaci.md",
     "z_Mechanika/Zasady Gry.md",
     "Bestiariusz/Zielone Smoki.md",
@@ -372,7 +443,6 @@
     "Księga czarów/Sailento.md",
     "Księga czarów/Verum.md",
     "Ekwipunek/Bronie/Nasze/Głowa Lewiatana.md",
-    "SESJA 0.md",
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Bestiariusz/Bestiariusz.md",
     "Lokacje/Brolaser/Brolaser.md",
