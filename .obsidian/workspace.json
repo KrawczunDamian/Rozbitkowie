@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58ccc31b9510716a",
+        "id": "7c538124dfba7c05",
         "type": "tabs",
         "children": [
           {
-            "id": "8a800635c5e45203",
+            "id": "229412bfc8b23df1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,96 +18,47 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "title": "Templatka",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Karty postaci/Templatka.pdf\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Gildie",
+                  "title": "To byłaby karta piekarza",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Gildie.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/To byłaby karta piekarza.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Templatka",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Karty postaci/Templatka.pdf\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Diff View (Przedmioty)",
-                  "icon": "git-pull-request",
-                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"staged\":false}}",
+                  "title": "To byłaby karta piekarza",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/To byłaby karta piekarza.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Templatka",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Karty postaci/Templatka.pdf\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Bronie",
+                  "title": "To byłaby karta piekarza",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nasze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Przedmioty",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nasze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Zbroje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Zbroje.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "SESJA 0",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SESJA 0.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.8333333333333335}"
-                },
-                {
-                  "title": "Diff View (appearance.json)",
-                  "icon": "git-pull-request",
-                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/appearance.json\",\"staged\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                },
-                {
-                  "title": "Diff View (app.json)",
-                  "icon": "git-pull-request",
-                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/app.json\",\"staged\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                },
-                {
-                  "title": "Wydarzenia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wydarzenia/Wydarzenia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Karty postaci/To byłaby karta piekarza.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "diff-view",
+              "type": "pdf",
               "state": {
-                "file": "z_Music/SMALLThe-Perfect-Storm-at-Sea-Old-Sai.mp3",
-                "staged": true
+                "file": "Karty postaci/KartaPiekarza.pdf"
               }
             }
           }
@@ -213,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Karty postaci/KartaPiekarza.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Karty postaci/KartaPiekarza.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +230,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Karty postaci/KartaPiekarza.pdf"
+              }
             }
           },
           {
@@ -345,7 +300,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Karty postaci/KartaPiekarza.pdf"
+              }
             }
           },
           {
@@ -409,8 +366,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "0da0391df5aff0e5",
+  "active": "229412bfc8b23df1",
   "lastOpenFiles": [
+    "Karty postaci/Templatka.pdf",
+    "Karty postaci/KartaPiekarza.pdf",
+    "Karty postaci/Templatka — kopia.pdf",
+    "Karty postaci/To byłaby karta piekarza.md",
     "Lokacje/Lokacje.md",
     "Gildie/Gildie.md",
     "Ekwipunek/Bronie/Bronie.md",
@@ -422,7 +383,6 @@
     "Lokacje/Wyspa.png",
     "Lokacje/Wyspa.png.crdownload",
     "Wydarzenia/Wydarzenia.md",
-    "Karty postaci/Templatka.pdf",
     "Postaci/Postaci.md",
     "z_Mechanika/Zasady Gry.md",
     "Bestiariusz/Zielone Smoki.md",
@@ -434,7 +394,6 @@
     "z_Mechanika/Rasy/Delocjanie.png",
     "z_Mechanika/Rasy/Raawjańczycy.pdf",
     "Karty postaci/Ergandella karta.pdf",
-    "z_Mechanika/Rasy/Delocjanie.pdf",
     "z_Mechanika/Rasy/368d5efc-d887-4870-a344-a7ac73dcc560.png",
     "z_Mechanika/Statystyki wykresy itp.md",
     "Księga czarów/Ave Sempra.md",
@@ -448,8 +407,6 @@
     "Lokacje/Brolaser/Brolaser.md",
     "Ekwipunek/Przedmioty/Nasze/Nasze.md",
     "Bestiariusz/Pełzacze.md",
-    "Gildie/Czarno Czerwoni.md",
-    "Gildie/Nowe Horyzonty (Gildia Czasu).md",
     "z_Foty/Zielone smoki fota.jpg",
     "z_Foty/Yenthaliana Dal Thaarey fota.jpg",
     "z_Foty/Wgór fota.jpg",
